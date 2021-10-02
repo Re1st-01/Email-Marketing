@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: #081020; 
+    font-size:2em;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    color:white 
+} 
+.container{ width: 21em;
+    background-color: #0d1b35;
+    text-align:center;
+    font-family: ;
+    
+}
+.corpo{
+    font-size:0,5em;
+    justify-content: center;
+    color: white;
+  
+
+}
+.titulo{
+    color:white
+    text-aliner:center
+    
+}
+.imagem{
+    border:10px,10px,10px,10px grey;
+
+}
+
+}
+
