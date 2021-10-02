@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Email Marketing</title>
+    </head>
+    <Body>
+        <div class="container">
+       
+        <div>
+        
+            <img src="directv-go/header-logo.jpg" >
+            <img src="directv-go/hero.jpg">
+        </div>
+            
+        <div class="corpo">
+            <p class="titulo">Assista a séries, esportes e conteúdo ao vivo e<br/>
+                muito mais, quando e onde quiser pelo meu app!<br/>
+                Confira a minha seleção pra você
+            </p>
+            <h4 class="titulo">Conteudo ao vivo pra você não perder</h4><hr>
+            <div class="imagem">
+            <img src="directv-go/highlight-01.png" width="210px" height="300px">
+            <img src="directv-go/highlight-02.png" width="210px" height="300px">
+            <img src="directv-go/highlight-03.png" width="210px" height="300px">
+            </div>
+        <div>   
+            <p class="subtitulo">12 de Setembro às xxh</p>
+            <p clsss="subtitulo">13 de Setembro</br>
+              a partir das 18h30</p>
+              <p clsss="subtitulo">13 de Setembro às 20h</p>
+
+
+        </div>
+
+        <div class="corpo">
+            <h4 class="titulo">Adicionados</br>recentemente</h4><hr>
+            <img src="directv-go/highlight-04.png" width="210px" height="300px">
+            <img src="directv-go/highlight-05.png" width="210px" height="300px">
+            <img src="directv-go/highlight-06.png" width="210px" height="300px">
+            
+        </div>
+
+        <div class="corpo">
+            <h4 class="titulo">E ainda tem muito</br>esporte te esperando</h4><hr>
+             <img src="directv-go/highlight-07.png"width="210px" height="300px">
+            <img src="directv-go/highlight-08.png" width="210px" height="300px">
+            <img src="directv-go/highlight-09.png" width="210px" height="300px">
+            <p clsss="subtitulo">12 de Setembro às 16h</p>
+            <p clsss="subtitulo">12 de Setembro às 10h</p>
+            <p clsss="subtitulo">12 de Setembro às 20h15</p>
+        </div>
+        </div>
+
+        <div class="corpo">               
+             <img src="directv-go/divider-01.jpg">
+             <h3>Andinda não tem o nosso app?</h3><hr>
+             <h3 id="baixe">Baixe agora</h3>
+            <img src="directv-go/icon-apple.png">
+            <img src="directv-go/icon-google.png">
+            <img src="directv-go/cta-btm.png">
+             </div> 
+       <div class="rodape">
+
+             <h4>Gostou? Isso e muito mais você</br>
+                       encontra na</h4>
+            <img src="directv-go/cta-logo.png">
+           <h5>Assista agora</h5>
+            
+             <img src="directv-go/footer.png">
+            
+            <img src="directv-go/Img_Template_Icon_Footer.png">
+            <div >
+             <p>Para mais informações, acesse o FAQ.</p>
+             <h6>Se você deseja parar de receber esses e-mails, clique aqui para cancelar.
+                A programação sugerida pode depender da contratação específica de produtos feita pelo cliente e pode ser alterada sem aviso prévio.
+                As transmissões dos jogos estão sujeitas à disponibilidade da programadora detentora dos
+                direitos de entrega do sinal de transmissão à DIRECTV GO. A DIRECTV GO não se
+                responsabiliza por eventuais falhas de transmissão da geradora de sinal, bem como por
+                possíveis alterações nas datas e/ou horário dos jogos.
+                Consulte informações do seu plano, restrições, termos e condições em www.directvgo.com.br
+                Todas as marcas DIRECTV e qualquer propriedade intelectual inserida nelas são de propriedade da THE DIRECTV GROUP, INC.</h6>
+            </div>    
+               
+           <img src="directv-go/Img_Template_Icon_Facebook.png">
+            <img src="directv-go/Img_Template_Icon_Instagram.png">
+            <img src="directv-go/Img_Template_Icon_Twitter.png">
+        
+
+        </div>
+
+
+    
+    </Body>
+
+
+
+
+
+</html>
